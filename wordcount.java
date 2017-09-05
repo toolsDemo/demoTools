@@ -5,4 +5,5 @@ for (int i = 0; i < s.length(); i++ {
 		counter += 1;
 	}
 }
+
 System.out.println(counter);
